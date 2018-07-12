@@ -2,6 +2,6 @@
 Demo Project
 hello world
 how are you
-my name is deeksha dayananda
+my name is deeksha dayanan
 hgfh
 dmckd
